@@ -69,8 +69,7 @@ Email: ababhi9644@gmail.com
 2. AmazonEC2FullAccess
 
 ## 3.Create ECR repo to store/save docker image
-
-- Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/text-s
+- 485969976067.dkr.ecr.us-east-1.amazonaws.com/tetxs
 
 ## 4.  Create EC2 machine (Ubuntu)
 
