@@ -33,7 +33,7 @@ pip install -r requirements.txt
 python app.py
 
 ## Now
-open up you local host and port
+open up you local host and port number
 
 Author: Abhishek Patidar
 Email: ababhi9644@gmail.com
