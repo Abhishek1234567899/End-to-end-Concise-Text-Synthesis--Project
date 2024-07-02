@@ -17,7 +17,7 @@
 
 Clone the repository
 
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/Abhishek1234567899/End-to-end-NLP-Concise-Text-Synthesis-Project
 
 ## STEP 01- Create a conda environment after opening the repository
 
